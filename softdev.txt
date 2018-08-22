@@ -1,0 +1,19 @@
+If you want to sustain in the market then you would have to keep yourself updated with latest IT tools, and technologies:
+sorces to be followed :
+Technical Forums over the internet
+ Technical magazines on various IT subjects 
+ Technical Bulletin Boards
+ Conferences, Trainings and workshops
+Latest versions of old tools and packages, languages etc.
+
+One more important issue is poor prioritization of the work.
+1.If you are very good in designing software components and
+your past designs have been appreciated a lot then you can think to go in technical side and become software architect.
+2.If you are very good in managing things, have good command over people, 
+and have great convincing abilities then you can think of going towards management 
+role which will start with leading a small team.
+3.If you are very good in managing things and at the same time you have great architectural sense,
+then you can think of becoming techno-manager,
+where you will keep contributing in designing components and will manage team and projects.
+4.Once you are sure about this, 
+you should start working in the same direction starting from your project preference till your trainings and certifications.
